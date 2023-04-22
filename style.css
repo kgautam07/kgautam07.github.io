@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  background: var(--bg-color);
+  background: var(--second-bg-color);
   color: var(--text-color);
 }
 
